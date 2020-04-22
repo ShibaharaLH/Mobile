@@ -1,10 +1,8 @@
-[
-  "perguntas": [
-    {
-      "Está grávida de quanto tempo?": "5 meses",
-      "Sente dores na barriga durante a gravidez?": "Não",
-      "Toma algum medicamento?": "Não",
-      "Teve alguma lesão no corpo?": "Não"
-    }
-  ]
+"perguntas": [
+  {
+    "Está grávida de quanto tempo?": "5 meses",
+    "Sente dores na barriga durante a gravidez?": "Não",
+    "Toma algum medicamento?": "Não",
+    "Teve alguma lesão no corpo?": "Não"
+  }
 ]
